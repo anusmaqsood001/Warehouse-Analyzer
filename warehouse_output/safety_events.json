@@ -1,0 +1,245 @@
+[
+  {
+    "frame": 69,
+    "time_sec": 2.76,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID10",
+    "worker_id": 9,
+    "vehicle_id": 10,
+    "distance_px": 324.9
+  },
+  {
+    "frame": 70,
+    "time_sec": 2.8,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID10",
+    "worker_id": 9,
+    "vehicle_id": 10,
+    "distance_px": 324.9
+  },
+  {
+    "frame": 71,
+    "time_sec": 2.84,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID10",
+    "worker_id": 9,
+    "vehicle_id": 10,
+    "distance_px": 324.9
+  },
+  {
+    "frame": 72,
+    "time_sec": 2.88,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID10",
+    "worker_id": 9,
+    "vehicle_id": 10,
+    "distance_px": 309.9
+  },
+  {
+    "frame": 73,
+    "time_sec": 2.92,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID10",
+    "worker_id": 9,
+    "vehicle_id": 10,
+    "distance_px": 305.9
+  },
+  {
+    "frame": 74,
+    "time_sec": 2.96,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID10",
+    "worker_id": 9,
+    "vehicle_id": 10,
+    "distance_px": 305.9
+  },
+  {
+    "frame": 75,
+    "time_sec": 3.0,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID10",
+    "worker_id": 9,
+    "vehicle_id": 10,
+    "distance_px": 306.1
+  },
+  {
+    "frame": 76,
+    "time_sec": 3.04,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID10",
+    "worker_id": 9,
+    "vehicle_id": 10,
+    "distance_px": 305.7
+  },
+  {
+    "frame": 77,
+    "time_sec": 3.08,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID10",
+    "worker_id": 9,
+    "vehicle_id": 10,
+    "distance_px": 303.2
+  },
+  {
+    "frame": 92,
+    "time_sec": 3.68,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 309.4
+  },
+  {
+    "frame": 93,
+    "time_sec": 3.72,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 309.2
+  },
+  {
+    "frame": 94,
+    "time_sec": 3.76,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 307.4
+  },
+  {
+    "frame": 95,
+    "time_sec": 3.8,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 306.9
+  },
+  {
+    "frame": 96,
+    "time_sec": 3.84,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 307.9
+  },
+  {
+    "frame": 97,
+    "time_sec": 3.88,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 289.0
+  },
+  {
+    "frame": 98,
+    "time_sec": 3.92,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 302.1
+  },
+  {
+    "frame": 99,
+    "time_sec": 3.96,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 305.7
+  },
+  {
+    "frame": 100,
+    "time_sec": 4.0,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 307.6
+  },
+  {
+    "frame": 101,
+    "time_sec": 4.04,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 308.2
+  },
+  {
+    "frame": 102,
+    "time_sec": 4.08,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 291.8
+  },
+  {
+    "frame": 103,
+    "time_sec": 4.12,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 289.6
+  },
+  {
+    "frame": 104,
+    "time_sec": 4.16,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 289.5
+  },
+  {
+    "frame": 105,
+    "time_sec": 4.2,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 288.4
+  },
+  {
+    "frame": 106,
+    "time_sec": 4.24,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 288.4
+  },
+  {
+    "frame": 107,
+    "time_sec": 4.28,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 288.4
+  },
+  {
+    "frame": 108,
+    "time_sec": 4.32,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 288.3
+  },
+  {
+    "frame": 109,
+    "time_sec": 4.36,
+    "type": "NEAR_MISS",
+    "description": "Worker ID9 near Forklift ID11",
+    "worker_id": 9,
+    "vehicle_id": 11,
+    "distance_px": 288.3
+  }
+]
