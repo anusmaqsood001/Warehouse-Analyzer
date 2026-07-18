@@ -1,6 +1,6 @@
 # Warehouse Forklift Safety Intelligence System
 
-This project analyzes a warehouse video to detect workers and forklifts, track movement, and flag safety risks such as near-misses, high-risk proximity, and zone intrusions.
+This project analyzes a warehouse video to detect workers and forklifts, track movement, and flag safety risks such as near-misses, high-risk proximity, and zone intrusions...
 
 ## Features
 
